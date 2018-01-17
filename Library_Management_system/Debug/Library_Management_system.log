@@ -1,0 +1,7 @@
+﻿  LM_system.cpp
+c:\users\ye\documents\visual studio 2015\projects\library_management_system\library_management_system\lm_system.h(38): warning C4091: “typedef ”: 没有声明变量时忽略“book_item”的左侧
+c:\users\ye\documents\visual studio 2015\projects\library_management_system\library_management_system\lm_system.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“record”的左侧
+c:\users\ye\documents\visual studio 2015\projects\library_management_system\library_management_system\lm_system.cpp(329): warning C4101: “name”: 未引用的局部变量
+c:\users\ye\documents\visual studio 2015\projects\library_management_system\library_management_system\lm_system.cpp(330): warning C4101: “author”: 未引用的局部变量
+  Library_Management_system.vcxproj -> C:\Users\Ye\documents\visual studio 2015\Projects\Library_Management_system\Debug\Library_Management_system.exe
+  Library_Management_system.vcxproj -> C:\Users\Ye\documents\visual studio 2015\Projects\Library_Management_system\Debug\Library_Management_system.pdb (Partial PDB)
